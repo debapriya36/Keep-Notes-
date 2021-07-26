@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+font-family: sans-serif;
+
+}
+
+body {
+    background-color: rgb(184, 178, 184);
+
+}
+.card-body 
+{
+     box-shadow: -2px 6px 30px rgb(33, 29, 87);
+}
+
